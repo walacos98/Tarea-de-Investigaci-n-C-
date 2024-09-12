@@ -1,0 +1,16 @@
+D:\source\repos\MultiEjercicios\MultiEjercicios\bin\Debug\MultiEjercicios.exe.config
+D:\source\repos\MultiEjercicios\MultiEjercicios\bin\Debug\MultiEjercicios.exe
+D:\source\repos\MultiEjercicios\MultiEjercicios\bin\Debug\MultiEjercicios.pdb
+D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.csproj.AssemblyReference.cache
+D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.Properties.Resources.resources
+D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.csproj.GenerateResource.cache
+D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.csproj.CoreCompileInputs.cache
+D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.exe
+D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.pdb
+D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.FrmLogin.resources
+D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.FrmPedidos.resources
+D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.FrmPrincipal.resources
+D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.FrmValidaciones.resources
+D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.FrmPromedioNotas.resources
+D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.FrmNumerosNaturales.resources
+D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.FrmContarQuesos.resources
