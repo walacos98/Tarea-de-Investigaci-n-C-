@@ -14,3 +14,4 @@ D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.FrmVal
 D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.FrmPromedioNotas.resources
 D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.FrmNumerosNaturales.resources
 D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.FrmContarQuesos.resources
+D:\source\repos\MultiEjercicios\MultiEjercicios\obj\Debug\MultiEjercicios.FrmArreglos.resources

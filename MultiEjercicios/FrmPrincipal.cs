@@ -53,5 +53,11 @@ namespace MultiEjercicios
             FrmContarQuesos Fp = new FrmContarQuesos();
             Fp.Show();
         }
+
+        private void BtnArreglos_Click(object sender, EventArgs e)
+        {
+            FrmArreglos Fp = new FrmArreglos();
+            Fp.Show();
+        }
     }
 }

@@ -36,6 +36,7 @@ namespace MultiEjercicios
             this.BtnSalir = new System.Windows.Forms.Button();
             this.BtnNumerosNaturales = new System.Windows.Forms.Button();
             this.BtnContarQuesos = new System.Windows.Forms.Button();
+            this.BtnArreglos = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // BtnPedidos
@@ -53,7 +54,7 @@ namespace MultiEjercicios
             // 
             this.LblEjercicios.AutoSize = true;
             this.LblEjercicios.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LblEjercicios.Location = new System.Drawing.Point(285, 25);
+            this.LblEjercicios.Location = new System.Drawing.Point(147, 23);
             this.LblEjercicios.Name = "LblEjercicios";
             this.LblEjercicios.Size = new System.Drawing.Size(153, 37);
             this.LblEjercicios.TabIndex = 1;
@@ -83,7 +84,7 @@ namespace MultiEjercicios
             // 
             // BtnSalir
             // 
-            this.BtnSalir.Location = new System.Drawing.Point(712, 467);
+            this.BtnSalir.Location = new System.Drawing.Point(181, 290);
             this.BtnSalir.Name = "BtnSalir";
             this.BtnSalir.Size = new System.Drawing.Size(75, 23);
             this.BtnSalir.TabIndex = 4;
@@ -94,7 +95,7 @@ namespace MultiEjercicios
             // BtnNumerosNaturales
             // 
             this.BtnNumerosNaturales.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnNumerosNaturales.Location = new System.Drawing.Point(433, 89);
+            this.BtnNumerosNaturales.Location = new System.Drawing.Point(34, 181);
             this.BtnNumerosNaturales.Name = "BtnNumerosNaturales";
             this.BtnNumerosNaturales.Size = new System.Drawing.Size(101, 64);
             this.BtnNumerosNaturales.TabIndex = 5;
@@ -105,7 +106,7 @@ namespace MultiEjercicios
             // BtnContarQuesos
             // 
             this.BtnContarQuesos.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnContarQuesos.Location = new System.Drawing.Point(565, 89);
+            this.BtnContarQuesos.Location = new System.Drawing.Point(170, 181);
             this.BtnContarQuesos.Name = "BtnContarQuesos";
             this.BtnContarQuesos.Size = new System.Drawing.Size(101, 64);
             this.BtnContarQuesos.TabIndex = 6;
@@ -113,11 +114,23 @@ namespace MultiEjercicios
             this.BtnContarQuesos.UseVisualStyleBackColor = true;
             this.BtnContarQuesos.Click += new System.EventHandler(this.BtnContarQuesos_Click);
             // 
+            // BtnArreglos
+            // 
+            this.BtnArreglos.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnArreglos.Location = new System.Drawing.Point(303, 181);
+            this.BtnArreglos.Name = "BtnArreglos";
+            this.BtnArreglos.Size = new System.Drawing.Size(101, 64);
+            this.BtnArreglos.TabIndex = 7;
+            this.BtnArreglos.Text = "Ejercicio Arreglos";
+            this.BtnArreglos.UseVisualStyleBackColor = true;
+            this.BtnArreglos.Click += new System.EventHandler(this.BtnArreglos_Click);
+            // 
             // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(799, 502);
+            this.ClientSize = new System.Drawing.Size(431, 323);
+            this.Controls.Add(this.BtnArreglos);
             this.Controls.Add(this.BtnContarQuesos);
             this.Controls.Add(this.BtnNumerosNaturales);
             this.Controls.Add(this.BtnSalir);
@@ -141,5 +154,6 @@ namespace MultiEjercicios
         private System.Windows.Forms.Button BtnSalir;
         private System.Windows.Forms.Button BtnNumerosNaturales;
         private System.Windows.Forms.Button BtnContarQuesos;
+        private System.Windows.Forms.Button BtnArreglos;
     }
 }

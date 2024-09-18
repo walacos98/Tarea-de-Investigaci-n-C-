@@ -48,6 +48,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClassValidaciones.cs" />
+    <Compile Include="FrmArreglos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmArreglos.Designer.cs">
+      <DependentUpon>FrmArreglos.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmContarQuesos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,6 +98,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmArreglos.resx">
+      <DependentUpon>FrmArreglos.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmContarQuesos.resx">
       <DependentUpon>FrmContarQuesos.cs</DependentUpon>
     </EmbeddedResource>
